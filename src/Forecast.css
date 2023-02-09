@@ -1,0 +1,43 @@
+.page-bottom {
+  margin: 20px 10px 20px 10px;
+  padding: 30px;
+  color: #696464;
+}
+
+.hr {
+  margin: 5px;
+  border-width: 5px;
+  color: #e6731b !important;
+}
+
+.forecast-temperature {
+  font-size: 15px;
+}
+
+i.icon {
+  font-size: 30px;
+  color: #e6731b;
+}
+
+.temperature {
+  color: #696464;
+  border-spacing: 0 auto;
+  margin: 0 auto;
+  font-size: 20px;
+  border-collapse: separate;
+  text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 5px;
+}
+
+.table {
+  font-size: 20px;
+  color: #696464;
+}
+
+.td {
+  width: 86px;
+  text-align: center;
+  padding: 3px;
+}

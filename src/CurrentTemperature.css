@@ -1,0 +1,13 @@
+#current-temperature {
+  vertical-align: middle;
+  font-size: 45px;
+  margin-top: 22px;
+}
+
+.weather-info {
+  border: none;
+  margin: 0px 42px 2px 2px;
+  padding: 19px;
+  display: block;
+  text-align: center;
+}
