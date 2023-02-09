@@ -6,6 +6,7 @@ export default function CodeSource() {
       <a
         href="https://github.com/amandablank/weather-app-react-v1"
         target="_blank"
+        rel="noreferrer"
       >
         Open-source-code{" "}
       </a>
@@ -13,6 +14,7 @@ export default function CodeSource() {
       <a
         href="https://www.linkedin.com/in/amanda-cristina-blankenburg-81b410213/"
         target="_blank"
+        rel="noreferrer"
       >
         Amanda Cristina Blankenburg
       </a>
