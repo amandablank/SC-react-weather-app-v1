@@ -3,6 +3,7 @@ import CitySearchForm from "./CitySearchForm";
 import CurrentTemperature from "./CurrentTemperature";
 import CityWeather from "./CityWeather";
 import Forecast from "./Forecast";
+import CodeSource from "./CodeSource";
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
         </div>
         <Forecast />
       </div>
+      <CodeSource />
     </div>
   );
 }
